@@ -118,7 +118,7 @@ app.get("/auth/google",passport.authenticate('google',{
 
 app.get("/auth/google/callback",passport.authenticate('google',{
   failureRedirect:'/',
-  successRedirect:'https://softcom-restapi.herokuapp.com/join',
+  successRedirect:'https://softcom-api-h7ra.onrender.com/join',
   // successRedirect:'http://localhost:5000/join',
   session:true
 }),(req,res)=>{
