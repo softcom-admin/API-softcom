@@ -126,6 +126,27 @@ app.get("/auth/google/callback",passport.authenticate('google',{
 })
 
 
+// --------------------------------------------------------------------//
+//cron job to make the server be alive all the time!
+const cron = require('node-cron');
+
+const link_to_site = `https://softcom-api-h7ra.onrender.com/`
+
+
+cron.schedule('0 */20 * * * *', () => {
+
+axios.get(link_to_site, { 
+    headers: { "Accept-Encoding": "gzip,deflate,compress" } 
+})
+    .then((req,res) => {console.log(`hit`)})
+    .catch((err)=>{
+    // console.log(err)
+    })
+
+});
+// --------------------------------------------------------------------//
+
+
 
 //endpoint
 app.get('/lol',(req,res)=>{
