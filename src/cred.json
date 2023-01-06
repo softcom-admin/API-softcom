@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "softcom-website",
+  "private_key_id": "4bd1ef5757d1a8bc169a1319c5ba5f0c94f41a6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDdwicUCfbVjEUM\n1uEfx4H0az7nhb0DxnBo9sX9EqdP9Lv8zq8pmyOC1/boHb4/cQhnnzB9kW5bnvcB\nUej0CGgZgj7rrW6pCKOT52OdhRwRvWBOeA0Wmlhr2yKPghvg9w0h+MxgvDyHWsZN\nOKhEcaCABlJP/iBsdc3QHPBloSv9TJsKfzaV+f8jIJj3GPgyPJAv1rIxDpiOdfzz\nWOHpFqWS4VogO/2cf+OCzSnN/7+JsFc3eQJthhWHhRn+dH11XAEmPqWG0QQ7eggN\nz5z2W9L98UNlNNJOZlsjX3Csdw3Qjn3yPXfqbolI2Cl6NvZhmiz9vw1+iakpkGES\n/2rncBoFAgMBAAECgf8kcuqLDv26Xg9uKYJXK9KGbeU/CcL4Ew189VlKf2eAsdFp\nNX3oyVKplqUfslEQpTqs+Z5vS8m/h6W93wpbnzI/Rbiap3H91opb3VrGoY9EWy3K\n0nl3j0OcmgTCjU52HBOOuRGyhT4DusJUd8jGkajJLTf9mgvZKP9VC6GbAREP+JN6\nFaLo1UchT4KRyvNRVQVOWDSaY7JWSjsSK1jKpgqX7zIn5kzzKuyJvZsQbRvbx/vs\nJs7wXarnzWY9vK1OfDfCEIDqVwdS8LHfT0NQYIQd1uezz8kk/JKlMvDgRczi3TxE\nU061DGCrfnAnO9YTROpR8i/YWqAo1+nFRw33DhECgYEA+fJEvDMSYPuTw+xBtC72\nl4AGiQTTBpD9rrvPj+igSTywMGF9H1S0nQqVW0SKrrm9+e+T+BUgvpz4p1y7obhx\nNiakiv3tGMxpcsCLHvIgvYpdqoQG3EQrZw6sHvoi6kbIfLBgdYetXhk/7gBnI3LQ\nSJS+6LEiaoQFRQgfpcZYbrUCgYEA4yEck0h/yMGhKyhc1blHyykN0og59OSjejpY\n4tbmCu7BGoK9j1FFQC7Wes+LMgK0Og4ptPxWh8XcQUaGHUuWC6fRJ+07UxIbOIHz\nedr+fbSMEf1+fTQobaPbO2vnBaw6OYX9mXKvPV5tCiu4SUOjS46cPVwg4TTPiCBf\nE6MFwBECgYA4uROCRnDgU5e4OfC7TIEn5qUVCWQ+tD7uHa9AMIHXvQ8bG7TCnH2U\nuiclHEwA1SRZCVbiUSEqQQNpL/FhBTOkH2buKCxbmWBA65NnBXoKqdER9n58FHhp\nHfpP2WJ9Gm07ZuetJIpitYY9pBfEArVkE2Wz9ychVy6++NX90CKXlQKBgFQ0jWyJ\nP17FcqQWdbyC0Xwff1FjUeFZ9sW05glLVMQO2iai+/YrUjpGYxvq4Bcta3XulEXW\nG5qAn3TP2Z74y+sMT3229PyKRO9BNmwh5aHjEt8ElSWD9c0YJ4ozKdYvkPKMm4WN\nQCzHWjOgG9WFrv+vInuZMVNtCdfU8IrOMK6RAoGAJ+Ag/nmAfNxOssO4pyS99pxe\nv/yAF0rYe+k0W84nmyLvLYdiUym0nwVNzEY+zKQF7VTlaXMYyIuLoCtOMEZUVqij\npwwJyhtsnvfEwQkiUWSE8jYKt6/tY90zmwEPcZL3fSWSU7dEXl9OaR7sk3rsWXt3\n+G6+oXlB+TCV2FO+FEQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "softcom-website@softcom-website.iam.gserviceaccount.com",
+  "client_id": "109475831150268885147",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/softcom-website%40softcom-website.iam.gserviceaccount.com"
+}
